@@ -1,0 +1,29 @@
+Comecou
+  Leia numero1
+  Leia numero2
+  Leia soma
+  Leia subtracao
+  Leia multi
+  Leia divisao
+  
+  soma = numero1 + numero2
+  subtracao = numero1 - numero2
+  multi = numero1 * numero2
+  divisao = numero1 / numero2
+  
+
+  Se (a conta foi soma) {
+    Escreva "O resultado é: ", soma
+  }
+
+  Se (a conta foi subtracao) {
+    Escreva "O resultado é: ", subtracao
+  }
+
+  Se (a conta foi multiplicacao) {
+    Escreva "O resultado é: ", multi
+  }
+
+  Se (a conta foi divisao) {
+    Escreva "O resultado é: ", divisao
+  }
